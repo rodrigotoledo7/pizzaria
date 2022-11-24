@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pizza Ria</string>
+    <string name="todo">TODO</string>
+    <string name="fa_a_seu_pedido">Faça seu pedido</string>
+    <string name="pizza_calabresa">Pizza Calabresa</string>
+    <string name="pizza_calabresa_70_00">Pizza Calabresa $ 70,00</string>
+    <string name="pagar">PAGAR</string>
+    <string name="limpar">LIMPAR</string>
+    <string name="pizza_moda_da_casa_85_00">Pizza Moda da Casa $ 85,00</string>
+    <string name="pizza_4_queijos_85_00">Pizza 4 Queijos $ 85,00</string>
+    <string name="pizza_palmito_70_00">Pizza Palmito $ 70,00</string>
+    <string name="pizza_marguerita_70_00">Pizza Marguerita $ 70,00</string>
+</resources>
